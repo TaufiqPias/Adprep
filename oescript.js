@@ -10,7 +10,7 @@ const CONFIG = {
   correctMark: 1,
   negativeMark: 0.25,
   autoAdvanceMs: 1200, // pause after answering before moving on
-  homeUrl: "/onlineexam.html",
+  homeUrl: "/index.html",
   // Paste the Web App URL you get after deploying Code.gs
   sheetUrl:
     "https://script.google.com/macros/s/AKfycbzzX5n-d5FK8k51gzr_Moo73xN1_lvBtUmOPqDCqsGpcpaYkEA4rACttuew46P2vUa7/exec",
