@@ -1,0 +1,340 @@
+{
+  "testTitle": "Admission Preparation - 001",
+  "questions": [
+    {
+      "question": "Choose the correct form: 'She _____ in London since 2015.'",
+      "options": ["lives", "has been living", "has lived", "lived"],
+      "correct": 2
+    },
+    {
+      "question": "Select the correct question tag: 'You are coming, _____?'",
+      "options": ["are you", "aren't you", "don't you", "isn't it"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the error: 'He is more taller than his brother.'",
+      "options": ["more taller", "than", "his brother", "No error"],
+      "correct": 0
+    },
+    {
+      "question": "Choose the correct preposition: 'She is good _____ mathematics.'",
+      "options": ["in", "at", "on", "for"],
+      "correct": 1
+    },
+    {
+      "question": "What is the part of speech of 'slowly' in 'He walked slowly'?",
+      "options": ["Adjective", "Adverb", "Noun", "Preposition"],
+      "correct": 1
+    },
+    {
+      "question": "Change to passive: 'The teacher praised the student.'",
+      "options": [
+        "The student was praised by the teacher.",
+        "The student is praised by the teacher.",
+        "The teacher was praised by the student.",
+        "The student praised the teacher."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the correct conjunction: 'She was tired, _____ she kept working.'",
+      "options": ["so", "because", "or", "but"],
+      "correct": 3
+    },
+    {
+      "question": "Convert to indirect speech: 'He said, \"I have finished my work.\"'",
+      "options": [
+        "He said he has finished his work.",
+        "He said that he had finished his work.",
+        "He says he finished his work.",
+        "He said that I had finished my work."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Find the error: 'One of my friends are a doctor.'",
+      "options": ["One of", "my friends", "are", "No error"],
+      "correct": 2
+    },
+    {
+      "question": "Select the correct modal: 'You _____ see a doctor if you feel ill.'",
+      "options": ["should", "can", "may", "will"],
+      "correct": 0
+    },
+    {
+      "question": "Choose the correct form: 'If I _____ rich, I would travel the world.'",
+      "options": ["am", "was", "were", "be"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the right pronoun: 'The decision is _____ to make.'",
+      "options": ["yours", "your", "you", "yourself"],
+      "correct": 0
+    },
+    {
+      "question": "Identify the gerund: 'Playing chess requires patience.'",
+      "options": ["chess", "requires", "patience", "Playing"],
+      "correct": 3
+    },
+    {
+      "question": "Correct the sentence: 'They doesn't know the answer.'",
+      "options": [
+        "They don't know the answer.",
+        "They not know the answer.",
+        "They doesn't knows the answer.",
+        "No change needed."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Select the adverb clause: 'We stayed home because it was raining.'",
+      "options": [
+        "We stayed home",
+        "because it was raining",
+        "it was",
+        "raining"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Change to active voice: 'The cake was baked by Mary.'",
+      "options": [
+        "Mary baked the cake.",
+        "Mary bakes the cake.",
+        "Mary was baking the cake.",
+        "The cake baked Mary."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the correct option: 'Mathematics _____ my favourite subject.'",
+      "options": ["are", "is", "were", "have been"],
+      "correct": 1
+    },
+    {
+      "question": "Select the correct preposition: 'He has been absent _____ Monday.'",
+      "options": ["from", "since", "for", "at"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the infinitive in: 'She wants to learn French.'",
+      "options": ["wants", "to learn", "French", "She"],
+      "correct": 1
+    },
+    {
+      "question": "Convert to direct speech: 'She said that she would call me.'",
+      "options": [
+        "She said, 'I will call you.'",
+        "She said, 'She will call me.'",
+        "She says, 'I would call you.'",
+        "She told, 'I call you.'"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Find the adjective: 'The tall boy won the race.'",
+      "options": ["boy", "won", "tall", "race"],
+      "correct": 2
+    },
+    {
+      "question": "Correct subject-verb agreement: 'Neither of the answers _____ correct.'",
+      "options": ["are", "is", "were", "have been"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the correct conjunction: '_____ he was ill, he attended the meeting.'",
+      "options": ["Although", "Because", "So", "And"],
+      "correct": 0
+    },
+    {
+      "question": "Identify the tense: 'She had already left when I arrived.'",
+      "options": [
+        "Past Simple",
+        "Past Perfect",
+        "Present Perfect",
+        "Past Continuous"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Choose the right article: 'She is _____ honest woman.'",
+      "options": ["a", "an", "the", "no article"],
+      "correct": 1
+    },
+    {
+      "question": "Change to passive: 'The children ate the cake.'",
+      "options": [
+        "The cake was eaten by the children.",
+        "The cake is eaten by the children.",
+        "The cake has eaten the children.",
+        "The children were eaten by the cake."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Select the pronoun error in: 'Between you and I, this is a secret.'",
+      "options": ["Between", "you and I", "this is", "No error"],
+      "correct": 1
+    },
+    {
+      "question": "What is the participle in: 'The excited fans cheered loudly.'",
+      "options": ["fans", "cheered", "excited", "loudly"],
+      "correct": 2
+    },
+    {
+      "question": "Correct the sentence: 'He speaks very good English.'",
+      "options": [
+        "He speaks very well English.",
+        "He speaks English very well.",
+        "He speak very good English.",
+        "No change needed."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Identify the sentence type: 'I waited, but she never came.'",
+      "options": ["Simple", "Compound", "Complex", "Compound-Complex"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the modal for ability: 'She _____ speak three languages.'",
+      "options": ["can", "must", "should", "may"],
+      "correct": 0
+    },
+    {
+      "question": "Convert to indirect: 'He said, \"I am reading a book.\"'",
+      "options": [
+        "He said that he was reading a book.",
+        "He said he is reading a book.",
+        "He says he was reading a book.",
+        "He said that I was reading a book."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Select the correct preposition: 'The cat jumped _____ the table.'",
+      "options": ["in", "onto", "at", "from"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the noun clause: 'What she said surprised everyone.'",
+      "options": [
+        "What she said",
+        "surprised everyone",
+        "she said",
+        "everyone"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Correct agreement: 'The team _____ playing well today.'",
+      "options": ["are", "is", "were", "have"],
+      "correct": 1
+    },
+    {
+      "question": "Change to active: 'The report will be submitted by them.'",
+      "options": [
+        "They will submit the report.",
+        "They submitted the report.",
+        "They are submitting the report.",
+        "The report will submit them."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the conjunction: 'He is not only intelligent _____ hardworking.'",
+      "options": ["but also", "and", "or", "so"],
+      "correct": 0
+    },
+    {
+      "question": "What is the adverb in: 'The train arrived early.'",
+      "options": ["train", "arrived", "early", "The"],
+      "correct": 2
+    },
+    {
+      "question": "Select the correct tense: 'They _____ to Paris last summer.'",
+      "options": ["go", "went", "have gone", "will go"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the error: 'She is more smarter than her sister.'",
+      "options": ["more smarter", "than", "her sister", "No error"],
+      "correct": 0
+    },
+    {
+      "question": "Choose the article: '_____ university is a place of learning.'",
+      "options": ["A", "An", "The", "No article"],
+      "correct": 0
+    },
+    {
+      "question": "Convert to passive: 'They have completed the project.'",
+      "options": [
+        "The project has been completed by them.",
+        "The project was completed by them.",
+        "The project is completed by them.",
+        "The project completes them."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Select the pronoun: 'To _____ should I address the letter?'",
+      "options": ["who", "whom", "whose", "which"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the gerund phrase: 'Writing letters is her hobby.'",
+      "options": ["is", "her hobby", "Writing letters", "letters"],
+      "correct": 2
+    },
+    {
+      "question": "Correct the sentence: 'She don't like tea.'",
+      "options": [
+        "She doesn't like tea.",
+        "She not like tea.",
+        "She don't likes tea.",
+        "No change."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "John Milton",
+        "Jane Austen"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Who is the author of 'Pride and Prejudice'?",
+      "options": [
+        "Emily Brontë",
+        "Jane Austen",
+        "Virginia Woolf",
+        "Mary Shelley"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In 'The Old Man and the Sea', who is the old fisherman?",
+      "options": ["Santiago", "Manolin", "Hemingway", "Pedrico"],
+      "correct": 0
+    },
+    {
+      "question": "Which literary device is used in 'The wind whispered through the trees'?",
+      "options": ["Simile", "Personification", "Hyperbole", "Alliteration"],
+      "correct": 1
+    },
+    {
+      "question": "Who wrote the novel 'Oliver Twist'?",
+      "options": [
+        "Thomas Hardy",
+        "Mark Twain",
+        "George Orwell",
+        "Charles Dickens"
+      ],
+      "correct": 3
+    }
+  ]
+}

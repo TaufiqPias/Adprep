@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admission Preparation</title>
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://freepngimg.com/thumb/android/82430-gradeup-exam-level-graduate-cgl-green-2018.png"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="oestyle.css" />
+  </head>
+  <body>
+    <!-- 1. START SCREEN -->
+    <main class="container" id="start-screen">
+      <header class="hero">
+        <div class="exam-date" id="exam-date"></div>
+        <h1 id="exam-title">Admission Preparation</h1>
+        <div class="chips">
+          <span class="chip"
+            ><i class="fas fa-list-check"></i>
+            <span id="chip-questions">50</span> questions</span
+          >
+          <span class="chip"
+            ><i class="fas fa-clock"></i>
+            <span id="chip-minutes">30</span> minutes</span
+          >
+          <span class="chip"
+            ><i class="fas fa-star"></i>
+            <span id="chip-marks">50</span> marks</span
+          >
+        </div>
+      </header>
+
+      <section class="exam-info">
+        <h2>Before you begin</h2>
+        <ul>
+          <li>
+            This test has
+            <strong><span id="info-questions">50</span> questions</strong> worth
+            <strong><span id="info-marks">50</span> marks</strong>. You get 1
+            mark for each correct answer.
+          </li>
+          <li>
+            <strong><span id="info-negative">0.25</span> mark</strong> is
+            deducted for each wrong answer. Skipped questions score 0.
+          </li>
+          <li>
+            You have <strong><span id="info-minutes">30</span> minutes</strong>.
+            The exam submits automatically when time runs out.
+          </li>
+          <li>You cannot change an answer once you select it.</li>
+          <li>
+            Press <strong>Skip</strong> to move on. Use the question numbers at
+            the bottom of the page to return to any skipped question with one
+            click.
+          </li>
+        </ul>
+      </section>
+
+      <form class="start-form" id="start-form" autocomplete="off">
+        <div class="student-info">
+          <div class="input-group">
+            <label for="student-name">Your name</label>
+            <input
+              type="text"
+              id="student-name"
+              placeholder="Enter your full name"
+              maxlength="60"
+              required
+            />
+          </div>
+          <div class="input-group">
+            <label for="student-class">Your class</label>
+            <input
+              type="text"
+              id="student-class"
+              placeholder="e.g. Class 11 or 12 or Admission"
+              maxlength="40"
+              required
+            />
+          </div>
+        </div>
+        <p class="form-error" id="start-error" role="alert"></p>
+        <button type="submit" class="btn-start" id="start-btn" disabled>
+          <i class="fas fa-play"></i> Start Exam
+        </button>
+      </form>
+    </main>
+
+    <!-- 2. EXAM SCREEN -->
+    <div class="container" id="exam-screen" hidden>
+      <div class="topbar">
+        <div class="topbar-row">
+          <div>
+            <div class="bar-title" id="bar-title">Admission Preparation</div>
+            <div class="bar-counter" id="q-counter">Question 1 of 50</div>
+          </div>
+          <div class="timer" id="timer" role="timer" aria-live="off">
+            <i class="fas fa-clock"></i> <span id="timer-text">30:00</span>
+          </div>
+        </div>
+        <div class="progress-bar" aria-hidden="true">
+          <div class="progress" id="progress"></div>
+        </div>
+      </div>
+
+      <div class="question-container" id="question-container">
+        <!-- Questions will be loaded here -->
+      </div>
+
+      <div class="navigation">
+        <button type="button" class="btn-prev" id="prev-btn">
+          <i class="fas fa-arrow-left"></i> Previous
+        </button>
+        <button type="button" class="btn-skip" id="skip-btn">
+          <i class="fas fa-forward"></i> Skip
+        </button>
+        <button type="button" class="btn-next" id="next-btn">
+          Next <i class="fas fa-arrow-right"></i>
+        </button>
+      </div>
+
+      <section class="navigator" aria-label="Question navigator">
+        <div class="navigator-head">
+          <h3>Jump to a question</h3>
+          <div class="legend">
+            <span
+              ><i class="sw sw-answered"></i> Answered
+              <b id="count-answered">0</b></span
+            >
+            <span
+              ><i class="sw sw-skipped"></i> Skipped
+              <b id="count-skipped">0</b></span
+            >
+            <span
+              ><i class="sw sw-unseen"></i> Not attempted
+              <b id="count-unseen">0</b></span
+            >
+          </div>
+        </div>
+        <div class="palette" id="palette"></div>
+        <div class="navigator-actions">
+          <button type="button" class="btn-review" id="review-btn">
+            <i class="fas fa-rotate-left"></i>
+            <span id="review-label">Go to skipped</span>
+          </button>
+          <button type="button" class="btn-submit" id="submit-btn">
+            <i class="fas fa-paper-plane"></i> Submit exam
+          </button>
+        </div>
+      </section>
+    </div>
+
+    <!-- 3. RESULT SCREEN -->
+    <div class="container result-container" id="result-screen" hidden>
+      <h2>Exam results</h2>
+      <div class="score" id="score">0/50</div>
+      <div class="score-text" id="score-text"></div>
+
+      <div class="sync" id="sync-status" role="status"></div>
+      <button type="button" class="btn-retry" id="retry-btn" hidden>
+        <i class="fas fa-rotate-right"></i> Try sending again
+      </button>
+
+      <div class="summary">
+        <h3>Summary</h3>
+        <div class="summary-item">
+          <span>Name:</span><span id="res-name"></span>
+        </div>
+        <div class="summary-item">
+          <span>Class:</span><span id="res-class"></span>
+        </div>
+        <div class="summary-item">
+          <span>Total questions:</span><span id="total-questions">50</span>
+        </div>
+        <div class="summary-item">
+          <span>Correct / incorrect:</span
+          ><span id="correct-answers">0 (0 incorrect)</span>
+        </div>
+        <div class="summary-item">
+          <span>Unanswered:</span><span id="unanswered">0</span>
+        </div>
+        <div class="summary-item">
+          <span>Percentage:</span><span id="percentage">0%</span>
+        </div>
+        <div class="summary-item">
+          <span>Time taken:</span><span id="time-taken">00:00</span>
+        </div>
+      </div>
+
+      <div class="leaderboard">
+        <h3>Leaderboard (this device)</h3>
+        <div class="table-wrap">
+          <table class="leaderboard-table">
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Name</th>
+                <th>Class</th>
+                <th>Score</th>
+                <th>Time</th>
+              </tr>
+            </thead>
+            <tbody id="leaderboard-body"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <button type="button" class="btn-home" id="home-btn">
+        <i class="fas fa-home"></i> Back to home
+      </button>
+    </div>
+
+    <!-- Submit confirmation -->
+    <div class="modal" id="confirm-modal" hidden>
+      <div
+        class="modal-box"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="confirm-title"
+      >
+        <h3 id="confirm-title">Submit your exam?</h3>
+        <p id="confirm-text"></p>
+        <div class="modal-actions">
+          <button type="button" class="btn-prev" id="confirm-cancel">
+            Keep working
+          </button>
+          <button type="button" class="btn-submit" id="confirm-ok">
+            Submit now
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="notification" id="notification" role="alert">
+      <i class="fas fa-exclamation-circle"></i>
+      <span id="notification-text"></span>
+    </div>
+
+    <script src="oescript.js"></script>
+  </body>
+</html>
