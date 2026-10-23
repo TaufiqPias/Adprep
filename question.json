@@ -23,9 +23,14 @@
     },
     {
       "question": "Which organization founded the Language Movement?",
-      "options": ["Awami League", "Tamaddun Majlish", "Mukti Bahini", "Krishak Sramik Party"],
+      "options": [
+        "Awami League",
+        "Tamaddun Majlish",
+        "Mukti Bahini",
+        "Krishak Sramik Party"
+      ],
       "correct": 1
-    }, 
+    },
     {
       "question": "Which is the largest ocean on Earth?'",
       "options": [
@@ -38,17 +43,17 @@
     },
     {
       "question": "Where is the Secretariat of SAARC located?'",
-      "options": ["Dhaka, Bangladesh", "New Delhi, India", "Kathmandu, Nepal", "Colombo, Sri Lanka"],
+      "options": [
+        "Dhaka, Bangladesh",
+        "New Delhi, India",
+        "Kathmandu, Nepal",
+        "Colombo, Sri Lanka"
+      ],
       "correct": 2
     },
     {
       "question": "Which is the smallest country in the world by area?",
-      "options": [
-        "Monaco",
-        "Tuvalu",
-        "Vatican City",
-        "San Marino"
-      ],
+      "options": ["Monaco", "Tuvalu", "Vatican City", "San Marino"],
       "correct": 2
     },
     {
@@ -63,7 +68,12 @@
     },
     {
       "question": "Which rare animal is found in the Lawachara Forest?",
-      "options": ["Hanuman", "Chitra Deer", "Bhuban Chil", "Ulluk (Hoolock Gibbon)"],
+      "options": [
+        "Hanuman",
+        "Chitra Deer",
+        "Bhuban Chil",
+        "Ulluk (Hoolock Gibbon)"
+      ],
       "correct": 3
     },
     {
@@ -77,29 +87,18 @@
       "correct": 2
     },
     {
-      "question": "Which country has the largest troop contribution to United Nations peacekeeping?": [
-        "Pakistan",
-        "India.",
-        "United States",
-        "Bangladesh"
-      ],
+      "question": "Which country has the largest troop contribution to United Nations peacekeeping?",
+      "options": ["Pakistan", "India.", "United States", "Bangladesh"],
       "correct": 3
     },
     {
       "question": "How many permanent members are there in the United Nations security council?",
-      "options": [
-        "5",
-        "10",
-        "15",
-        "20"
-      ],
+      "options": ["5", "10", "15", "20"],
       "correct": 0
     },
     {
       "question": "In which year did the United Nations receive the Nobel Peace Prize?'",
-      "options": [
-        "1981.", "1993", "2001", "2003"
-      ],
+      "options": ["1981.", "1993", "2001", "2003"],
       "correct": 2
     },
     {
@@ -113,18 +112,13 @@
       "correct": 1
     },
     {
-      "question": "Which country is known as the "Land of the Midnight Sun"?",
+      "question": "Which country is known as the 'Land of the Midnight Sun'?",
       "options": ["Norway", "Japan", "Iceland", "Finland"],
       "correct": 0
     },
     {
       "question": "The Amazon, the widest river in the world, is located in which continent?",
-      "options": [
-        "Africa",
-        "Asia",
-        "South America",
-        "North America"
-      ],
+      "options": ["Africa", "Asia", "South America", "North America"],
       "correct": 2
     },
     {
@@ -138,7 +132,7 @@
       "correct": 1
     },
     {
-      "question": "The "Statue of Liberty" is located in which city?",
+      "question": "The 'Statue of Liberty' is located in which city?",
       "options": ["Washington D.C.", "London", "New York", "Paris"],
       "correct": 2
     },
@@ -168,26 +162,23 @@
       "correct": 2
     },
     {
-      "question": "Which planet is known as the "Red Planet"?",
+      "question": "Which planet is known as the 'Red Planet'?",
       "options": ["Venus", "Jupiter", "Mars", "Saturn"],
       "correct": 2
     },
     {
       "question": "The Suez Canal connects which two seas?",
-      "options": ["Red Sea and Arabian Sea",
-                  "Mediterranean Sea and Red Sea", 
-                  "Mediterranean Sea and Black Sea",  
-                  "Red Sea and Caspian Sea"],
+      "options": [
+        "Red Sea and Arabian Sea",
+        "Mediterranean Sea and Red Sea",
+        "Mediterranean Sea and Black Sea",
+        "Red Sea and Caspian Sea"
+      ],
       "correct": 1
     },
     {
       "question": "Which layer of the atmosphere contains the ozone layer?",
-      "options": [
-        "Stratosphere",
-        "Troposphere",
-        "Mesosphere",
-        "Thermosphere"
-      ],
+      "options": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
       "correct": 0
     },
     {
@@ -217,32 +208,27 @@
     },
     {
       "question": "Which country won the first FIFA World Cup in 1930?",
-      "options": [
-        "Brazil",
-        "Argentina",
-        "Uruguay",
-        "Italy"
-      ],
+      "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
       "correct": 2
     },
     {
-      "question": "The "Penholder Grip" is used in which sport?",
+      "question": "The 'Penholder Grip' is used in which sport?",
       "options": ["Badminton", "Tennis", "Table Tennis", "Squash"],
       "correct": 2
     },
     {
       "question": " In which year did India win its first Cricket World Cup?",
-      "options": [
-        "1975",
-        "1979",
-        "2011",
-        "1983"
-      ],
+      "options": ["1975", "1979", "2011", "1983"],
       "correct": 3
     },
     {
-      "question": "Who is known as the "God of Cricket"?",
-      "options": ["Virat Kohli", "Brian Lara", "Sachin Tendulkar", "Ricky Ponting"],
+      "question": "Who is known as the 'God of Cricket'?",
+      "options": [
+        "Virat Kohli",
+        "Brian Lara",
+        "Sachin Tendulkar",
+        "Ricky Ponting"
+      ],
       "correct": 2
     },
     {
@@ -256,7 +242,7 @@
       "correct": 2
     },
     {
-      "question": "Who first used the term "Geography"?",
+      "question": "Who first used the term 'Geography'?",
       "options": ["Aristotle", "tHerodotus", "Eratosthenes", "Ptolemy"],
       "correct": 2
     },
@@ -276,13 +262,18 @@
       "correct": 2
     },
     {
-      "question": "Which country is primarily known as the "Horn of Africa" due to its distinct shape?",
+      "question": "Which country is primarily known as the 'Horn of Africa' due to its distinct shape?",
       "options": ["Kenya", "Sudan", "Egypt", "Somalia"],
       "correct": 3
     },
     {
-      "question": "Who was thr first Bangladeshi to conquer Mount Everest?",
-      "options": ["Musa Ibrahim", " M.A. Muhith", "Nishat Majumder", "Wasfia Nazreen"],
+      "question": "Who was the first Bangladeshi to conquer Mount Everest?",
+      "options": [
+        "Musa Ibrahim",
+        " M.A. Muhith",
+        "Nishat Majumder",
+        "Wasfia Nazreen"
+      ],
       "correct": 0
     },
     {
@@ -307,25 +298,27 @@
     },
     {
       "question": "Who was the first Secretary-General of the United Nations?",
-      "options": [
-        "Ban Ki-moon",
-        "Trygve Lie",
-        "U Thant",
-        "Kofi Annan"
-      ],
+      "options": ["Ban Ki-moon", "Trygve Lie", "U Thant", "Kofi Annan"],
       "correct": 1
     },
     {
       "question": "What is the full form of SAARC?",
-      "options": ["South Asian Association for Regional Cooperation", 
-                  "South Asian Alliance for Regional Cooperation", 
-                  "South Asian Association for Regional Council", 
-                  "South Asian Authority for Regional Cooperation"],
+      "options": [
+        "South Asian Association for Regional Cooperation",
+        "South Asian Alliance for Regional Cooperation",
+        "South Asian Association for Regional Council",
+        "South Asian Authority for Regional Cooperation"
+      ],
       "correct": 0
     },
     {
       "question": "Who was the Sector 2 commander in the Bangladesh Liberation War?",
-      "options": ["Major Ziaur Rahman", "Major Khaled Mosharraf", "Major C. R. Dutta", "Major Abu Taher"],
+      "options": [
+        "Major Ziaur Rahman",
+        "Major Khaled Mosharraf",
+        "Major C. R. Dutta",
+        "Major Abu Taher"
+      ],
       "correct": 1
     },
     {
