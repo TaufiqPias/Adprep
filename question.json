@@ -1,333 +1,333 @@
 {
-  "testTitle": "Admission Preparation - GENERAL KNOWLEDGE - 002",
+  "testTitle": "Admission Preparation - ENGLISH - 003",
   "questions": [
     {
-      "question": "From which district of Bangladesh can the Himalayan peak Kanchenjunga be seen?",
-      "options": ["Panchagarh", "Dinajpur", "Kurigram", "Lalmonirhat"],
-      "correct": 0
-    },
-    {
-      "question": "What is the largest island in Bangladesh?",
-      "options": ["Sandwip", "Saint Martin", "Nijhum Dwip", "Bhola"],
-      "correct": 3
-    },
-    {
-      "question": "How many satellite centers are there in Bangladesh",
-      "options": ["4", "6", "3", "2"],
-      "correct": 0
-    },
-    {
-      "question": "What is the largest Haor in Bangladesh?",
-      "options": ["Tanguar Haor", "Hakaluki Haor", "Hail Haor", "Dibir Haor"],
+      "question": "Choose the correct form: 'They _____ in this city for ten years.'",
+      "options": ["live", "have been living", "lived", "are living"],
       "correct": 1
     },
     {
-      "question": "Which organization founded the Language Movement?",
-      "options": [
-        "Awami League",
-        "Tamaddun Majlish",
-        "Mukti Bahini",
-        "Krishak Sramik Party"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which is the largest ocean on Earth?'",
-      "options": [
-        " Arctic Ocean",
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Where is the Secretariat of SAARC located?'",
-      "options": [
-        "Dhaka, Bangladesh",
-        "New Delhi, India",
-        "Kathmandu, Nepal",
-        "Colombo, Sri Lanka"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Which is the smallest country in the world by area?",
-      "options": ["Monaco", "Tuvalu", "Vatican City", "San Marino"],
-      "correct": 2
-    },
-    {
-      "question": "The Gazoldoba Barrage is located upstream of which river in Bangladesh?'",
-      "options": ["Padma", "Meghna", "Jamuna", "Teesta"],
-      "correct": 3
-    },
-    {
-      "question": "In which district is the famous Sixty Dome Mosque located?",
-      "options": ["Sylhet", "Khulna", "Bagerhat", "Chuadanga"],
-      "correct": 2
-    },
-    {
-      "question": "Which rare animal is found in the Lawachara Forest?",
-      "options": [
-        "Hanuman",
-        "Chitra Deer",
-        "Bhuban Chil",
-        "Ulluk (Hoolock Gibbon)"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Which district of Bangladesh shares a border with Myanmar?",
-      "options": ["Comilla", "Chittagong", "Bandarban", "Noakhali"],
-      "correct": 2
-    },
-    {
-      "question": "How many countries signed the United Nations Charter at the San Francisco Conference",
-      "options": ["49", "50", "51", "52"],
-      "correct": 2
-    },
-    {
-      "question": "Which country has the largest troop contribution to United Nations peacekeeping?",
-      "options": ["Pakistan", "India.", "United States", "Bangladesh"],
-      "correct": 3
-    },
-    {
-      "question": "How many permanent members are there in the United Nations security council?",
-      "options": ["5", "10", "15", "20"],
+      "question": "Select the correct question tag: 'She doesn't like coffee, _____?'",
+      "options": ["does she", "doesn't she", "is she", "isn't she"],
       "correct": 0
     },
     {
-      "question": "In which year did the United Nations receive the Nobel Peace Prize?'",
-      "options": ["1981.", "1993", "2001", "2003"],
-      "correct": 2
-    },
-    {
-      "question": "Which of the following is the world's largest island country?'",
-      "options": ["Indonesia", "Australia", "New Zealand", "Philippines"],
+      "question": "Identify the error: 'This is the most easiest question in the paper.'",
+      "options": ["most easiest", "in the paper", "This is", "No error"],
       "correct": 0
     },
     {
-      "question": "Where is the headquarters of the International Monetary Fund (IMF) located?",
-      "options": ["London", "Washington D.C.", "Beijing", "Geneva"],
-      "correct": 1
-    },
-    {
-      "question": "Which country is known as the 'Land of the Midnight Sun'?",
-      "options": ["Norway", "Japan", "Iceland", "Finland"],
-      "correct": 0
-    },
-    {
-      "question": "The Amazon, the widest river in the world, is located in which continent?",
-      "options": ["Africa", "Asia", "South America", "North America"],
-      "correct": 2
-    },
-    {
-      "question": "Which country was formerly known as Persia?",
-      "options": ["Iraq", "Syria", "Turkey", "Iran"],
+      "question": "Choose the correct preposition: 'He is afraid _____ heights.'",
+      "options": ["from", "in", "at", "of"],
       "correct": 3
     },
     {
-      "question": "Correct subject-verb agreement: 'Neither of the answers _____ correct.'",
+      "question": "What is the part of speech of 'quickly' in 'She ran quickly'?",
+      "options": ["Adverb", "Adjective", "Noun", "Verb"],
+      "correct": 0
+    },
+    {
+      "question": "Change to passive: 'The chef cooked a delicious meal.'",
+      "options": [
+        "A delicious meal was cooked by the chef.",
+        "A delicious meal is cooked by the chef.",
+        "The chef was cooked by a delicious meal.",
+        "A delicious meal cooked the chef."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the correct conjunction: 'He studied hard, _____ he passed the exam.'",
+      "options": ["but", "or", "so", "because"],
+      "correct": 2
+    },
+    {
+      "question": "Convert to indirect speech: 'She said, \"I am going to the market.\"'",
+      "options": [
+        "She said she is going to the market.",
+        "She says she was going to the market.",
+        "She said that she had gone to the market.",
+        "She said that she was going to the market."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Find the error: 'Each of the students have a book.'",
+      "options": ["Each of", "the students", "have", "No error"],
+      "correct": 2
+    },
+    {
+      "question": "Select the correct modal: 'You _____ finish your homework before going out.'",
+      "options": ["must", "can", "may", "would"],
+      "correct": 0
+    },
+    {
+      "question": "Choose the correct form: 'If she _____ harder, she would pass the exam.'",
+      "options": ["studied", "studies", "study", "studying"],
+      "correct": 0
+    },
+    {
+      "question": "Choose the right pronoun: 'This book is _____.'",
+      "options": ["mine", "my", "me", "myself"],
+      "correct": 0
+    },
+    {
+      "question": "Identify the gerund: 'Swimming is good exercise.'",
+      "options": ["good", "exercise", "Swimming", "is"],
+      "correct": 2
+    },
+    {
+      "question": "Correct the sentence: 'He don't understand the question.'",
+      "options": [
+        "He doesn't understand the question.",
+        "He not understand the question.",
+        "He don't understands the question.",
+        "No change needed."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Select the adverb clause: 'She left early because she was tired.'",
+      "options": [
+        "because she was tired",
+        "She left early",
+        "she was",
+        "tired"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Change to active voice: 'The letter was written by John.'",
+      "options": [
+        "John wrote the letter.",
+        "John writes the letter.",
+        "John was writing the letter.",
+        "The letter wrote John."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the correct option: 'Physics _____ a difficult subject.'",
       "options": ["are", "is", "were", "have been"],
       "correct": 1
     },
     {
-      "question": "The 'Statue of Liberty' is located in which city?",
-      "options": ["Washington D.C.", "London", "New York", "Paris"],
+      "question": "Select the correct preposition: 'She has been working here _____ 2018.'",
+      "options": ["for", "from", "since", "at"],
       "correct": 2
     },
     {
-      "question": "Who is considered the Father of the American Constitution?",
+      "question": "Identify the infinitive in: 'He decided to go home.'",
+      "options": ["decided", "to go", "home", "He"],
+      "correct": 1
+    },
+    {
+      "question": "Convert to direct speech: 'He said that he was tired.'",
       "options": [
-        "George Washington",
-        "Thomas Jefferson",
-        "James Madison",
-        "Abraham Lincoln"
+        "He said, 'I am tired.'",
+        "He said, 'He is tired.'",
+        "He says, 'I was tired.'",
+        "He told, 'I tired.'"
       ],
+      "correct": 0
+    },
+    {
+      "question": "Find the adjective: 'The beautiful garden attracted many visitors.'",
+      "options": ["garden", "attracted", "beautiful", "visitors"],
       "correct": 2
     },
     {
-      "question": "What is the capital of Canada?",
-      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "question": "Correct subject-verb agreement: 'Neither of the boys _____ present.'",
+      "options": ["are", "were", "is", "have been"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the correct conjunction: '_____ it was raining, they went for a walk.'",
+      "options": ["Because", "Although", "So", "And"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the tense: 'He had finished his work before she arrived.'",
+      "options": [
+        "Past Simple",
+        "Present Perfect",
+        "Past Continuous",
+        "Past Perfect"
+      ],
       "correct": 3
     },
     {
-      "question": "Which is the deepest ocean trench in the world?",
-      "options": [
-        "Puerto Rico Trench",
-        "Java Trench",
-        "Mariana Trench",
-        "Tonga Trench"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Which planet is known as the 'Red Planet'?",
-      "options": ["Venus", "Jupiter", "Mars", "Saturn"],
-      "correct": 2
-    },
-    {
-      "question": "The Suez Canal connects which two seas?",
-      "options": [
-        "Red Sea and Arabian Sea",
-        "Mediterranean Sea and Red Sea",
-        "Mediterranean Sea and Black Sea",
-        "Red Sea and Caspian Sea"
-      ],
+      "question": "Choose the right article: 'He is _____ European citizen.'",
+      "options": ["an", "a", "the", "no article"],
       "correct": 1
     },
     {
-      "question": "Which layer of the atmosphere contains the ozone layer?",
-      "options": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
+      "question": "Change to passive: 'The dog chased the cat.'",
+      "options": [
+        "The cat was chased by the dog.",
+        "The cat is chased by the dog.",
+        "The cat has chased the dog.",
+        "The dog was chased by the cat."
+      ],
       "correct": 0
     },
     {
-      "question": "Which country has the largest population in the world (as of current data)?",
-      "options": ["China", "Indonesia", "India", "United States"],
+      "question": "Select the pronoun error in: 'Let you and I solve this problem.'",
+      "options": ["Let", "you and I", "solve this", "No error"],
+      "correct": 1
+    },
+    {
+      "question": "What is the participle in: 'The broken window was repaired.'",
+      "options": ["window", "was", "broken", "repaired"],
       "correct": 2
     },
     {
-      "question": "What is the name of the largest desert in the world?",
-      "options": ["Sahara", "Gobi", "Antarctic Desert", "Arabian Desert"],
-      "correct": 2
-    },
-    {
-      "question": "Convert to indirect: Which line divides the Earth into the Northern and Southern Hemispheres?",
+      "question": "Correct the sentence: 'She sings very good.'",
       "options": [
-        "Tropic of Cancer",
-        "Tropic of Capricorn",
-        "Equator",
-        "Prime Meridian"
+        "She sings very well.",
+        "She sing very good.",
+        "She sings good very.",
+        "No change needed."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Identify the sentence type: 'Although he was tired, he continued working.'",
+      "options": ["Simple", "Compound", "Complex", "Compound-Complex"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the modal for permission: '_____ I use your phone?'",
+      "options": ["Must", "Should", "May", "Will"],
+      "correct": 2
+    },
+    {
+      "question": "Convert to indirect: 'She said, \"I will help you.\"'",
+      "options": [
+        "She said that she would help me.",
+        "She said she will help me.",
+        "She says she would help me.",
+        "She said that I would help her."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Select the correct preposition: 'The bird flew _____ the tree.'",
+      "options": ["in", "onto", "at", "from"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the noun clause: 'That he lied surprised everyone.'",
+      "options": ["That he lied", "surprised everyone", "he lied", "everyone"],
+      "correct": 0
+    },
+    {
+      "question": "Correct agreement: 'The jury _____ reached a verdict.'",
+      "options": ["have", "has", "were", "are"],
+      "correct": 1
+    },
+    {
+      "question": "Change to active: 'The song was sung by the choir.'",
+      "options": [
+        "The choir sang the song.",
+        "The choir sings the song.",
+        "The choir was singing the song.",
+        "The song sang the choir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the conjunction: 'She is both intelligent _____ hardworking.'",
+      "options": ["and", "but also", "or", "so"],
+      "correct": 0
+    },
+    {
+      "question": "What is the adverb in: 'He spoke softly to the child.'",
+      "options": ["spoke", "softly", "child", "He"],
+      "correct": 1
+    },
+    {
+      "question": "Select the correct tense: 'They _____ to the cinema yesterday.'",
+      "options": ["go", "have gone", "went", "will go"],
+      "correct": 2
+    },
+    {
+      "question": "Identify the error: 'She is the most tallest girl in the class.'",
+      "options": ["most tallest", "in the class", "She is", "No error"],
+      "correct": 0
+    },
+    {
+      "question": "Choose the article: '_____ hour passed before he returned.'",
+      "options": ["A", "An", "The", "No article"],
+      "correct": 1
+    },
+    {
+      "question": "Convert to passive: 'They will announce the results tomorrow.'",
+      "options": [
+        "The results will be announced by them tomorrow.",
+        "The results are announced by them tomorrow.",
+        "The results were announced by them tomorrow.",
+        "The results announce them tomorrow."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Select the pronoun: 'The gift is for _____?'",
+      "options": ["who", "whom", "whose", "which"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the gerund phrase: 'Reading books is her favourite pastime.'",
+      "options": ["is", "her favourite pastime", "Reading books", "books"],
+      "correct": 2
+    },
+    {
+      "question": "Correct the sentence: 'They doesn't play football.'",
+      "options": [
+        "They don't play football.",
+        "They not play football.",
+        "They doesn't plays football.",
+        "No change."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Who wrote the play 'Hamlet'?",
+      "options": [
+        "Christopher Marlowe",
+        "William Shakespeare",
+        "John Milton",
+        "Ben Jonson"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Who is the author of 'Jane Eyre'?",
+      "options": [
+        "Emily Brontë",
+        "Jane Austen",
+        "Charlotte Brontë",
+        "Mary Shelley"
       ],
       "correct": 2
     },
     {
-      "question": "In which year was the first Cricket World Cup held?",
-      "options": ["1971", "1975", "1979", "1983"],
-      "correct": 1
-    },
-    {
-      "question": "Which country won the first FIFA World Cup in 1930?",
-      "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
-      "correct": 2
-    },
-    {
-      "question": "The 'Penholder Grip' is used in which sport?",
-      "options": ["Badminton", "Tennis", "Table Tennis", "Squash"],
-      "correct": 2
-    },
-    {
-      "question": " In which year did India win its first Cricket World Cup?",
-      "options": ["1975", "1979", "2011", "1983"],
+      "question": "In 'Animal Farm', what type of animals are the main characters?",
+      "options": ["Dogs", "Cats", "Horses", "Pigs"],
       "correct": 3
     },
     {
-      "question": "Who is known as the 'God of Cricket'?",
-      "options": [
-        "Virat Kohli",
-        "Brian Lara",
-        "Sachin Tendulkar",
-        "Ricky Ponting"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Which country hosted the first T20 World Cup in 2007?",
-      "options": ["England", "South Africa", "India", "Australia"],
+      "question": "Which literary device is used in 'The stars danced in the night sky'?",
+      "options": ["Simile", "Personification", "Hyperbole", "Alliteration"],
       "correct": 1
     },
     {
-      "question": "What was the name of the official match ball for the 2026 FIFA World Cup?",
-      "options": ["Al Rihla", "Telstar 18", "Trionda", "Brazuca"],
-      "correct": 2
-    },
-    {
-      "question": "Who first used the term 'Geography'?",
-      "options": ["Aristotle", "tHerodotus", "Eratosthenes", "Ptolemy"],
-      "correct": 2
-    },
-    {
-      "question": "What is the longest river in the world?",
-      "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
-      "correct": 0
-    },
-    {
-      "question": " In which ocean is Sumatra Island located?",
+      "question": "Who wrote the novel 'Great Expectations'?",
       "options": [
-        "Pacific Ocean",
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "TArctic Ocean"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Which country is primarily known as the 'Horn of Africa' due to its distinct shape?",
-      "options": ["Kenya", "Sudan", "Egypt", "Somalia"],
-      "correct": 3
-    },
-    {
-      "question": "Who was the first Bangladeshi to conquer Mount Everest?",
-      "options": [
-        "Musa Ibrahim",
-        " M.A. Muhith",
-        "Nishat Majumder",
-        "Wasfia Nazreen"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "When was Bangladesh Bank established?",
-      "options": [
-        "December 16, 1971",
-        "March 26, 1971",
-        "January 10, 1972",
-        "December 16, 1972"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Who was the first governor of Bangladesh Bank?",
-      "options": [
-        "M. Nurul Islam",
-        "A. N. M. Hamidullah",
-        "A.K.N Ahmed",
-        "Dr. Mohaammed Farashuddin"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who was the first Secretary-General of the United Nations?",
-      "options": ["Ban Ki-moon", "Trygve Lie", "U Thant", "Kofi Annan"],
-      "correct": 1
-    },
-    {
-      "question": "What is the full form of SAARC?",
-      "options": [
-        "South Asian Association for Regional Cooperation",
-        "South Asian Alliance for Regional Cooperation",
-        "South Asian Association for Regional Council",
-        "South Asian Authority for Regional Cooperation"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Who was the Sector 2 commander in the Bangladesh Liberation War?",
-      "options": [
-        "Major Ziaur Rahman",
-        "Major Khaled Mosharraf",
-        "Major C. R. Dutta",
-        "Major Abu Taher"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who is known as the chief architect of the Constitution of Bangladesh?",
-      "options": [
-        "Sheikh Mujibur Rahman",
-        "AHM Kamruzzaman",
-        "Tajuddin Ahmad",
-        "Dr. Kamal Hossain"
+        "Thomas Hardy",
+        "Mark Twain",
+        "George Orwell",
+        "Charles Dickens"
       ],
       "correct": 3
     }
