@@ -1,334 +1,309 @@
 {
-  "testTitle": "Admission Preparation - ENGLISH - 003",
+  "testTitle": "Admission Preparation - GENERAL KNOWLEDGE - 004",
   "questions": [
     {
-      "question": "Choose the correct form: 'They _____ in this city for ten years.'",
-      "options": ["live", "have been living", "lived", "are living"],
+      "question": "বাংলাদেশের সংবিধান গণপরিষদে গৃহীত হয় কবে?",
+      "options": [
+        "৪ নভেম্বর ১৯৭২",
+        "১৬ ডিসেম্বর ১৯৭২",
+        "১০ জানুয়ারি ১৯৭২",
+        "২৬ মার্চ ১৯৭৩"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "বাংলাদেশের সংবিধানের মূলনীতি কয়টি?",
+      "options": ["৩টি", "৪টি", "৫টি", "৬টি"],
       "correct": 1
     },
     {
-      "question": "Select the correct question tag: 'She doesn't like coffee, _____?'",
-      "options": ["does she", "doesn't she", "is she", "isn't she"],
-      "correct": 0
-    },
-    {
-      "question": "Identify the error: 'This is the most easiest question in the paper.'",
-      "options": ["most easiest", "in the paper", "This is", "No error"],
-      "correct": 0
-    },
-    {
-      "question": "Choose the correct preposition: 'He is afraid _____ heights.'",
-      "options": ["from", "in", "at", "of"],
-      "correct": 3
-    },
-    {
-      "question": "What is the part of speech of 'quickly' in 'She ran quickly'?",
-      "options": ["Adverb", "Adjective", "Noun", "Verb"],
-      "correct": 0
-    },
-    {
-      "question": "Change to passive: 'The chef cooked a delicious meal.'",
+      "question": "বাংলাদেশের স্বাধীনতার ঘোষণাপত্র জারি করা হয় কবে?",
       "options": [
-        "A delicious meal was cooked by the chef.",
-        "A delicious meal is cooked by the chef.",
-        "The chef was cooked by a delicious meal.",
-        "A delicious meal cooked the chef."
+        "২৬ মার্চ ১৯৭১",
+        "১০ এপ্রিল ১৯৭১",
+        "১৭ এপ্রিল ১৯৭১",
+        "১৬ ডিসেম্বর ১৯৭১"
       ],
-      "correct": 0
-    },
-    {
-      "question": "Choose the correct conjunction: 'He studied hard, _____ he passed the exam.'",
-      "options": ["but", "or", "so", "because"],
-      "correct": 2
-    },
-    {
-      "question": "Convert to indirect speech: 'She said, \"I am going to the market.\"'",
-      "options": [
-        "She said she is going to the market.",
-        "She says she was going to the market.",
-        "She said that she had gone to the market.",
-        "She said that she was going to the market."
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Find the error: 'Each of the students have a book.'",
-      "options": ["Each of", "the students", "have", "No error"],
-      "correct": 2
-    },
-    {
-      "question": "Select the correct modal: 'You _____ finish your homework before going out.'",
-      "options": ["must", "can", "may", "would"],
-      "correct": 0
-    },
-    {
-      "question": "Choose the correct form: 'If she _____ harder, she would pass the exam.'",
-      "options": ["studied", "studies", "study", "studying"],
-      "correct": 0
-    },
-    {
-      "question": "Choose the right pronoun: 'This book is _____.'",
-      "options": ["mine", "my", "me", "myself"],
-      "correct": 0
-    },
-    {
-      "question": "Identify the gerund: 'Swimming is good exercise.'",
-      "options": ["good", "exercise", "Swimming", "is"],
-      "correct": 2
-    },
-    {
-      "question": "Correct the sentence: 'He don't understand the question.'",
-      "options": [
-        "He doesn't understand the question.",
-        "He not understand the question.",
-        "He don't understands the question.",
-        "No change needed."
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Select the adverb clause: 'She left early because she was tired.'",
-      "options": [
-        "because she was tired",
-        "She left early",
-        "she was",
-        "tired"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Change to active voice: 'The letter was written by John.'",
-      "options": [
-        "John wrote the letter.",
-        "John writes the letter.",
-        "John was writing the letter.",
-        "The letter wrote John."
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Choose the correct option: 'Physics _____ a difficult subject.'",
-      "options": ["are", "is", "were", "have been"],
       "correct": 1
     },
     {
-      "question": "Select the correct preposition: 'She has been working here _____ 2018.'",
-      "options": ["for", "from", "since", "at"],
+      "question": "বাংলাদেশের জাতীয় সংসদের নির্বাচিত আসন সংখ্যা কত?",
+      "options": ["৩৫০", "৪০০", "৩০০", "৩৬২"],
       "correct": 2
     },
     {
-      "question": "Identify the infinitive in: 'He decided to go home.'",
-      "options": ["decided", "to go", "home", "He"],
-      "correct": 1
-    },
-    {
-      "question": "Convert to direct speech: 'He said that he was tired.'",
+      "question": "বাংলাদেশের প্রথম অস্থায়ী রাষ্ট্রপতি কে ছিলেন?",
       "options": [
-        "He said, 'I am tired.'",
-        "He said, 'He is tired.'",
-        "He says, 'I was tired.'",
-        "He told, 'I tired.'"
+        "তাজউদ্দীন আহমদ",
+        "এ.এইচ.এম কামারুজ্জামান",
+        "সৈয়দ নজরুল ইসলাম",
+        "জিয়াউর রহমান"
       ],
-      "correct": 0
-    },
-    {
-      "question": "Find the adjective: 'The beautiful garden attracted many visitors.'",
-      "options": ["garden", "attracted", "beautiful", "visitors"],
       "correct": 2
     },
     {
-      "question": "Correct subject-verb agreement: 'Neither of the boys _____ present.'",
-      "options": ["are", "were", "is", "have been"],
+      "question": "ছয় দফা দাবি উত্থাপন করা হয় কত সালে?",
+      "options": [" ১৯৫২", "১৯৬২", "১৯৬৬", "১৯৬৯"],
       "correct": 2
     },
     {
-      "question": "Choose the correct conjunction: '_____ it was raining, they went for a walk.'",
-      "options": ["Because", "Although", "So", "And"],
+      "question": "বাংলাদেশের জাতীয় সংসদ ভবনের স্থপতি কে?",
+      "options": ["জেমস রেনেল", "লুই আই কান", "নিতুন কুন্ডু", "হামিদুর রহমান"],
       "correct": 1
     },
     {
-      "question": "Identify the tense: 'He had finished his work before she arrived.'",
+      "question": "বাংলাদেশের জাতীয় স্মৃতিসৌধের স্থপতি কে?",
       "options": [
-        "Past Simple",
-        "Present Perfect",
-        "Past Continuous",
-        "Past Perfect"
+        "লুই আই কান",
+        "মাজহারুল ইসলাম",
+        "হামিদুর রহমান",
+        "সৈয়দ মাইনুল হোসেন"
       ],
       "correct": 3
     },
     {
-      "question": "Choose the right article: 'He is _____ European citizen.'",
-      "options": ["an", "a", "the", "no article"],
-      "correct": 1
-    },
-    {
-      "question": "Change to passive: 'The dog chased the cat.'",
-      "options": [
-        "The cat was chased by the dog.",
-        "The cat is chased by the dog.",
-        "The cat has chased the dog.",
-        "The dog was chased by the cat."
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Select the pronoun error in: 'Let you and I solve this problem.'",
-      "options": ["Let", "you and I", "solve this", "No error"],
-      "correct": 1
-    },
-    {
-      "question": "What is the participle in: 'The broken window was repaired.'",
-      "options": ["window", "was", "broken", "repaired"],
-      "correct": 2
-    },
-    {
-      "question": "Correct the sentence: 'She sings very good.'",
-      "options": [
-        "She sings very well.",
-        "She sing very good.",
-        "She sings good very.",
-        "No change needed."
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Identify the sentence type: 'Although he was tired, he continued working.'",
-      "options": ["Simple", "Compound", "Complex", "Compound-Complex"],
-      "correct": 2
-    },
-    {
-      "question": "Choose the modal for permission: '_____ I use your phone?'",
-      "options": ["Must", "Should", "May", "Will"],
-      "correct": 2
-    },
-    {
-      "question": "Convert to indirect: 'She said, \"I will help you.\"'",
-      "options": [
-        "She said that she would help me.",
-        "She said she will help me.",
-        "She says she would help me.",
-        "She said that I would help her."
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Select the correct preposition: 'The bird flew _____ the tree.'",
-      "options": ["in", "onto", "at", "from"],
-      "correct": 1
-    },
-    {
-      "question": "Identify the noun clause: 'That he lied surprised everyone.'",
-      "options": ["That he lied", "surprised everyone", "he lied", "everyone"],
-      "correct": 0
-    },
-    {
-      "question": "Correct agreement: 'The jury _____ reached a verdict.'",
-      "options": ["have", "has", "were", "are"],
-      "correct": 1
-    },
-    {
-      "question": "Change to active: 'The song was sung by the choir.'",
-      "options": [
-        "The choir sang the song.",
-        "The choir sings the song.",
-        "The choir was singing the song.",
-        "The song sang the choir."
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Choose the conjunction: 'She is both intelligent _____ hardworking.'",
-      "options": ["and", "but also", "or", "so"],
-      "correct": 0
-    },
-    {
-      "question": "What is the adverb in: 'He spoke softly to the child.'",
-      "options": ["spoke", "softly", "child", "He"],
-      "correct": 1
-    },
-    {
-      "question": "Select the correct tense: 'They _____ to the cinema yesterday.'",
-      "options": ["go", "have gone", "went", "will go"],
-      "correct": 2
-    },
-    {
-      "question": "Identify the error: 'She is the most tallest girl in the class.'",
-      "options": ["most tallest", "in the class", "She is", "No error"],
-      "correct": 0
-    },
-    {
-      "question": "Choose the article: '_____ hour passed before he returned.'",
-      "options": ["A", "An", "The", "No article"],
-      "correct": 1
-    },
-    {
-      "question": "Convert to passive: 'They will announce the results tomorrow.'",
-      "options": [
-        "The results will be announced by them tomorrow.",
-        "The results are announced by them tomorrow.",
-        "The results were announced by them tomorrow.",
-        "The results announce them tomorrow."
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Select the pronoun: 'The gift is for _____?'",
-      "options": ["who", "whom", "whose", "which"],
-      "correct": 1
-    },
-    {
-      "question": "Identify the gerund phrase: 'Reading books is her favourite pastime.'",
-      "options": ["is", "her favourite pastime", "Reading books", "books"],
-      "correct": 2
-    },
-    {
-      "question": "Correct the sentence: 'They doesn't play football.'",
-      "options": [
-        "They don't play football.",
-        "They not play football.",
-        "They doesn't plays football.",
-        "No change."
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Who wrote the play 'Hamlet'?",
-      "options": [
-        "Christopher Marlowe",
-        "William Shakespeare",
-        "John Milton",
-        "Ben Jonson"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who is the author of 'Jane Eyre'?",
-      "options": [
-        "Emily Brontë",
-        "Jane Austen",
-        "Charlotte Brontë",
-        "Mary Shelley"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "In 'Animal Farm', what type of animals are the main characters?",
-      "options": ["Dogs", "Cats", "Horses", "Pigs"],
+      "question": "বাংলা একাডেমি কত সালে প্রতিষ্ঠিত হয়?",
+      "options": ["১৯৫২ সালে", "১৯৫৪ সালে", "১৯৫৫ সালে", "১৯৫৬ সালে"],
       "correct": 3
     },
     {
-      "question": "Which literary device is used in 'The stars danced in the night sky'?",
-      "options": ["Simile", "Personification", "Hyperbole", "Alliteration"],
+      "question": "বাংলাদেশের সর্ববৃহৎ ম্যানগ্রোভ বনাঞ্চল কোনটি?",
+      "options": ["ভাওয়াল বন", "মধুপুর গড়", "সুন্দরবন", "লাঠিটিলা"],
+      "correct": 2
+    },
+    {
+      "question": "বাংলাদেশের প্রথম নারী এভারেস্ট বিজয়ী কে?",
+      "options": [
+        "ওয়াসফিয়া নাজিন",
+        "নিশাত মজুমদার",
+        "তৌহিদা খাতুন",
+        "ঝরনা ধারা চৌধুরী"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "জাতিসংঘের বর্তমান সদস্য সংখ্যা কত?",
+      "options": ["১৯১", "১৯৫", "১৯৩", "১৯৬"],
+      "correct": 2
+    },
+    {
+      "question": "ন্যাটোর (NATO) সদর দপ্তর কোথায় অবস্থিত?",
+      "options": [
+        "ব্রাসেলস, বেলজিয়াম",
+        "জেনেভা, সুইজারল্যান্ড",
+        "ভিয়েনা, অস্ট্রিয়া",
+        "নিউইয়র্ক, যুক্তরাষ্ট্র"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "বিশ্ব স্বাস্থ্য সংস্থার (WHO) প্রধান কার্যালয় কোথায় অবস্থিত?",
+      "options": ["প্যারিস", "লন্ডন", "রোম", "জেনেভা"],
+      "correct": 3
+    },
+    {
+      "question": "নিম্নের কোন দেশটি ইউরোপীয় ইউনিয়নের সদস্য নয়?",
+      "options": ["জার্মানি", "সুইজারল্যান্ড", "ইতালি", "ফ্রান্স"],
       "correct": 1
     },
     {
-      "question": "Who wrote the novel 'Great Expectations'?",
+      "question": "‘হোয়াইট হাউজ’(White House) কোন দেশের রাষ্ট্রপতির কার্যালয়?",
+      "options": ["যুক্তরাজ্য", "রাশিয়া", "যুক্তরাষ্ট্র", "ফ্রান্স"],
+      "correct": 2
+    },
+    {
+      "question": "বাংলাদেশের সর্বোচ্চ রাষ্ট্রীয় পুরস্কার কোনটি?",
       "options": [
-        "Thomas Hardy",
-        "Mark Twain",
-        "George Orwell",
-        "Charles Dickens"
+        "একুশে পদক",
+        "স্বাধীনতা পদক",
+        "বাংলা একাডেমি পুরস্কার",
+        "প্রধানমন্ত্রীর জাতীয় পুরস্কার"
       ],
+      "correct": 1
+    },
+    {
+      "question": "বাংলাদেশের জাতীয় প্রতীকে কয়টি তারকা আছে?",
+      "options": ["২টি", "3টি", "৪টি", "৫টি"],
+      "correct": 2
+    },
+    {
+      "question": "গ্রামীণ ব্যাংক প্রাথমিকভাবে কাজ শুরু করে কত সালে?",
+      "options": ["১৯৭৬", "১৯৮০", "১৯৭৫", "১৯৮৩"],
+      "correct": 0
+    },
+    {
+      "question": "বাংলাদেশের বৃহত্তম দ্বীপ কোনটি?",
+      "options": ["সেন্টমার্টিন", "সন্দ্বীপ", "ভোলা", "হাতিয়া"],
+      "correct": 2
+    },
+    {
+      "question": "সুন্দরবনের কত শতাংশ বাংলাদেশে পড়েছে??",
+      "options": ["৪২%", "৬৮%", "৬০%", "৬২%"],
+      "correct": 3
+    },
+    {
+      "question": "জাতিসংঘের সদর দপ্তর কোথায়?",
+      "options": ["ভিয়েনা", "নিউইয়র্ক", "প্যারিস", "ভিয়েনা"],
+      "correct": 1
+    },
+    {
+      "question": "শান্তিতে প্রথম নোবেল পুরস্কার লাভ করেন কে?",
+      "options": [
+        "হেনরি ডুনান্ট ও ফ্রেডেরিক প্যাসি",
+        "মাদার তেরেসা",
+        "নেলসন ম্যান্ডেলা",
+        "মার্টিন লুথার কিং"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "সার্ক (SAARC) কত সালে প্রতিষ্ঠিত হয়?",
+      "options": ["১৯৮০ সালে", "১৯৮৫ সালে", "১৯৯০ সালে", "১৯৯৫ সালে"],
+      "correct": 1
+    },
+    {
+      "question": "বর্তমান বিশ্বে কোন মুদ্রার মূল্যমান সবচেয়ে বেশি?",
+      "options": ["ইউএস ডলার", "ইউরো", "সুইস ফ্রাঙ্ক", "কুয়েতি দিনার"],
+      "correct": 3
+    },
+    {
+      "question": "আন্তর্জাতিক বিচার আদালত কোথায় অবস্থিত?",
+      "options": ["জেনেভা", "নিউইয়র্ক", "দ্য হেগ", "ভিয়েনা"],
+      "correct": 2
+    },
+    {
+      "question": "প্যালেস্টাইন লিবারেশন অর্গানাইজেশন (PLO) কবে গঠিত হয়?",
+      "options": ["১৯৬০", "১৯৬৪", "১৯৬৭", "১৯৭০"],
+      "correct": 1
+    },
+    {
+      "question": "ইন্দোনেশিয়ার নতুন রাজধানীর নাম কী?",
+      "options": ["জাকার্তা", "নুসানতারা", "সুরাবায়া", "বালি"],
+      "correct": 1
+    },
+    {
+      "question": "FIFA World Cup ২০২২-এর চ্যাম্পিয়ন কোন দেশ?",
+      "options": ["ফ্রান্স", "আর্জেন্টিনা", "ব্রাজিল", "স্পেন"],
+      "correct": 1
+    },
+    {
+      "question": "অলিম্পিক ২০২৪-এর হোস্ট সিটি কোনটি?",
+      "options": ["টোকিও", "লস অ্যাঞ্জেলেস", "প্যারিস", "লন্ডন"],
+      "correct": 2
+    },
+    {
+      "question": "বিশ্বের সবচেয়ে বড় NGO কোনটি?",
+      "options": ["গ্রামীণ ব্যাংক", "আশা", "প্রশিকা", "ব্র্যাক"],
+      "correct": 3
+    },
+    {
+      "question": "‘ল্যান্ড অব দ্য রাইজিং সান’ কোন দেশের উপনাম?",
+      "options": ["জাপান", "চীন", "কোরিয়া", "থাইল্যান্ড"],
+      "correct": 0
+    },
+    {
+      "question": "ITLOS (International Tribunal for the Law of the Sea)-এর সদর দপ্তর কোথায়?",
+      "options": ["হেগ", "হামবুর্গ", "নিউইয়র্ক", "জেনেভা"],
+      "correct": 1
+    },
+    {
+      "question": "বিশ্বের সবচেয়ে বেশি চাঁদ থাকা গ্রহ কোনটি? ",
+      "options": ["বৃহস্পতি", "ইউরেনাস", "শনি", "নেপচুন"],
+      "correct": 2
+    },
+    {
+      "question": "পৃথিবীর সবচেয়ে গভীর মহাসাগর কোনটি?",
+      "options": ["আটলান্টিক", "প্রশান্ত", "ভারতীয়", "আর্কটিক"],
+      "correct": 2
+    },
+    {
+      "question": " জাতিসংঘের বর্তমান মহাসচিব কে? (২০২৬ পর্যন্ত)",
+      "options": [
+        "বান কি মুন",
+        "বুট্রোস ঘালি",
+        "কোফি আনান",
+        "আন্তোনিও গুতেরেস"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "বাংলাদেশ কত সালে ICC-এর পূর্ণাঙ্গ টেস্ট সদস্য হয়?",
+      "options": ["১৯৯৯", "২০০০", "২০০১", "২০০২"],
+      "correct": 2
+    },
+    {
+      "question": "১৯৯৭ সালের ICC Trophy ফাইনালে বাংলাদেশ কোন দেশকে হারায়?",
+      "options": ["স্কটল্যান্ড", "আয়ারল্যান্ড", "কেনিয়া", "নেদারল্যান্ডস"],
+      "correct": 1
+    },
+    {
+      "question": "অলিম্পিক গেমসে বাংলাদেশের প্রথম অংশগ্রহণ কোন সালে?",
+      "options": ["১৯৮৪", "১৯৮০", "১৯৮৮", "১৯৯২"],
+      "correct": 2
+    },
+    {
+      "question": "বাংলাদেশের জাতীয় ফুটবল দলের উপনাম কী?",
+      "options": [
+        "টাইগারস",
+        "বেঙ্গল টাইগারস",
+        "রেড অ্যান্ড গ্রিন",
+        "সোনার বাংলা"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "‘অ্যাশেজ’ কোন খেলার সঙ্গে যুক্ত?",
+      "options": ["ফুটবল", "ক্রিকেট", "হকি", "টেনিস"],
+      "correct": 1
+    },
+    {
+      "question": " বাংলাদেশের দীর্ঘতম নদী কোনটি?",
+      "options": ["পদ্মা", "যমুনা", "সুরমা", "মেঘনা"],
+      "correct": 3
+    },
+    {
+      "question": "বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ কোনটি?",
+      "options": ["সাকা হাফং", "চিম্বুক", "তাজিংডং", "কেওক্রাডং"],
+      "correct": 2
+    },
+    {
+      "question": "পৃথিবীর বৃহত্তম উষ্ণ মরুভূমি কোনটি?",
+      "options": ["সাহারা", " গোবি", "আরব", "কালাহারি"],
+      "correct": 0
+    },
+    {
+      "question": "কোন প্রণালি এশিয়া ও উত্তর আমেরিকাকে পৃথক করেছে?",
+      "options": ["বেরিং", "জিব্রাল্টার", "হরমুজ", "মালাক্কা"],
+      "correct": 0
+    },
+    {
+      "question": "পৃথিবীর বৃহত্তম দ্বীপ কোনটি?",
+      "options": ["নিউগিনি", "মাদাগাস্কার", "গ্রিনল্যান্ড", "বোর্নিও"],
+      "correct": 2
+    },
+    {
+      "question": "কোন খেলাকে ‘জেন্টলম্যানস গেম’ বলা হয়?",
+      "options": ["ফুটবল", "ক্রিকেট", "গলফ", "টেনিস"],
+      "correct": 1
+    },
+    {
+      "question": "‘ভিটামিন জি’ বা ভেটো (Veto) ক্ষমতা প্রয়োগের অধিকার কার রয়েছে?",
+      "options": [
+        "নিরাপত্তা পরিষদের স্থায়ী সদস্যদের",
+        "সাধারণ পরিষদের সকল সদস্যের",
+        "জাতিসংঘের মহাসচিবের",
+        "আন্তর্জাতিক আদালতের বিচারকদের"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "আন্তর্জাতিক নারী দিবস পালিত হয় কবে?",
+      "options": ["২১ ফেব্রুয়ারি", "১ মে", "৮ মার্চ", "১০ ডিসেম্বর"],
+      "correct": 1
+    },
+    {
+      "question": "পৃথিবীর দীর্ঘতম পর্বতমালা কোনটি?",
+      "options": ["হিমালয়", "রকি", "আল্পস", "আন্দিজ"],
       "correct": 3
     }
   ]
