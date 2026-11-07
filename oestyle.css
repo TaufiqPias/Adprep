@@ -192,7 +192,7 @@ button:disabled {
 .exam-info ul {
   padding-left: 20px;
   line-height: 1.7;
-  max-width: 70ch;
+  max-width: 150ch;
 }
 
 .start-form {
